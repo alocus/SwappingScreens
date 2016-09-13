@@ -6,4 +6,4 @@ Sample project to demo segue
 - Programmatically create seque (PlaySongVC)
 - Pass data from one ViewController to the destination ViewController (via Prepare func)
 
-<img width=680 src=./screenshot/storyboard.png>
+<img width=780 src=./screenshot/storyboard.png>
